@@ -1,2 +1,1 @@
-# UstOrtam
-Ust Ortam Proje Asama1
+# Ust Ortam Proje Asama1
